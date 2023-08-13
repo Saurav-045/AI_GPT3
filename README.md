@@ -1,6 +1,6 @@
 # AI_GPT3 🚀
 
-*Ai_GPT3*, a full-stack web development project that showcases my coding skills and creativity! 🌟
+*AI_GPT3* is a full-stack web development project showcasing my coding skills and creativity! 🌟
 
 ## Overview 📖
 
